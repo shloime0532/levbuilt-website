@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://levbuilt-website.vercel.app"),
+  metadataBase: new URL("https://levbuilt.vercel.app"),
   title: "LevBuilt Constructions | Bathroom Remodeling in Lakewood, NJ",
   description:
     "Expert bathroom remodeling in Lakewood, NJ. From concept to completion, every detail matters. 5-star rated. Free consultations. Built with Heart.",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title: "LevBuilt Constructions | Bathrooms Built with Heart",
     description:
       "Expert bathroom remodeling in Lakewood, NJ. 5-star rated. Free consultations.",
-    url: "https://levbuilt-website.vercel.app",
+    url: "https://levbuilt.vercel.app",
     siteName: "LevBuilt Constructions",
     locale: "en_US",
     type: "website",
